@@ -6,5 +6,3 @@
   {"courseId":"C105","title":"CSS & Design","instructor":"Mark Z","duration":"8 hours","rating":4.2,"category":"Design","price":"$40","enrolled":"1500"},
   {"courseId":"C106","title":"Node.js Basics","instructor":"Rita P","duration":"15 hours","rating":4.3,"category":"Backend","price":"$55","enrolled":"2100"}
 ]
-
-
